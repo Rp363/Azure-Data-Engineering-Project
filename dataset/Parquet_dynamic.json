@@ -1,5 +1,5 @@
 {
-	"name": "Parquet1",
+	"name": "Parquet_dynamic",
 	"properties": {
 		"linkedServiceName": {
 			"referenceName": "AzureDataLakeStorage1",
