@@ -1,0 +1,9 @@
+{
+	"name": "RojitDataFactoryProject",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3b0c362d-cc43-40b5-aad7-12046b7b5c49",
+		"tenantId": "3ead88e7-1301-4b85-99c1-4d6d05e643ca"
+	}
+}
