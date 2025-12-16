@@ -127,7 +127,7 @@ Final Gold datasets are:
 - Clean
 - Ready for BI and analytics use cases
 
-##DLT - Pipeline
+## DLT - Pipeline
 ![DLT Pipeline](databricks/src/gold/Screenshot/DLT.png)
 
 ---
